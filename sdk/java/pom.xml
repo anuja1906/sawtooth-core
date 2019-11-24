@@ -95,12 +95,12 @@
         <dependency>
             <groupId>com.google.protobuf</groupId>
             <artifactId>protobuf-java</artifactId>
-            <version>3.2.0</version>
+            <version>3.4.0</version>
         </dependency>
         <dependency>
             <groupId>org.bitcoinj</groupId>
             <artifactId>bitcoinj-core</artifactId>
-            <version>0.14.4</version>
+            <version>0.15</version>
             <exclusions>
                 <exclusion>
                     <groupId>com.lambdaworks</groupId>  <!-- Exclude invalid, unneeded signed jar -->
